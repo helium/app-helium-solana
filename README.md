@@ -1,10 +1,11 @@
 [![Build Status](https://travis-ci.org/solana-labs/ledger-app-solana.svg?branch=master)](https://travis-ci.org/solana-labs/ledger-app-solana)
 
-# Solana app for Ledger Wallet
+# Solana-compatible Helium app for Ledger Wallet
 
 ## Overview
 
-This app adds support for the Solana native token to Ledger Nano S hardware wallet.
+This app provides support for the Solana Network for Helium accounts. It is a simple clone of the default Solana Ledger
+app, but with the Helium's derivation path. For new accounts, it is encouraged to use the regular Solana Ledger app.
 
 Current Features:
 - Pubkey queries
